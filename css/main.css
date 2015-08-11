@@ -1,0 +1,128 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#header_nav {
+    align: center !important
+}
+
+.content {
+    background-color: #fff;
+    padding: 0;
+    *zoom: 1;
+    border-bottom: 1px solid #cecece;
+    padding: 30px 0 30px;
+}
+
+.intro {
+    padding: 0;
+}
+
+.bg-block {
+    background: url(../image/bg-block.png) repeat 0 0
+}
+
+.align-left {
+    text-align: left !important
+}
+
+.bg-block h1 {
+    color: #fff
+}
+
+.bg-block p {
+    color: #fff
+}
+
+.large {
+    display: block;
+    margin: 20px 0 20px
+}
+
+.btn-extlarge {
+    padding: 11px 22px 13px;
+    font-size: 18px;
+    font-size: 1.8rem
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #ffffff;
+    background-color: transparent;
+}
+
+.banner-holder .fc-banner .btn.btn-white {
+    border: 1px solid #fff
+}
+
+.fc-img {
+    position: relative;
+    margin-bottom: -30px
+}
+
+.footer {
+    background-color: #33373a;
+    color: #747d84;
+    padding: 10px 0 10px
+}
+
+.footer .footer-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: OpenSansRegular, Arial, sans-serif;
+    letter-spacing: .06em
+}
+
+.footer .footer-nav li {
+    float: left;
+    margin-left: 50px
+}
+
+.footer .footer-nav li:first-child {
+    margin-left: 0 !important
+}
+
+.footer .footer-nav li.extensions {
+    display: none
+}
+
+.footer .footer-nav li ul {
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.footer .footer-nav li ul li {
+    float: none;
+    margin-left: 0 !important;
+    margin-bottom: 15px;
+    max-width: 160px
+}
+
+.footer .footer-nav li ul li:first-child {
+    margin-left: 0 !important
+}
+
+.footer .footer-nav li ul li a {
+    color: #9199a2
+}
+
+.footer .footer-nav li ul li a:hover {
+    color: #adb3b9
+}
+
+.footer .footer-nav h4 {
+    font-size: 16px;
+    font-size: 1.6rem;
+    font-family: OpenSansRegular, Arial, sans-serif;
+    letter-spacing: .08em;
+    color: #d16d0c;
+    text-transform: uppercase;
+    margin-bottom: 25px
+}
